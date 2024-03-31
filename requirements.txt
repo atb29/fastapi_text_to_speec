@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+sqlalchemy
+sqlite-utils
+nltk
+bark
+pydub
+numpy
